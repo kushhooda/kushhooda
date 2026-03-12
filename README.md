@@ -74,20 +74,4 @@ I enjoy learning by creating real projects, experimenting with new ideas, and im
 
 ---
 
-## 3D Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kushhooda/kushhooda/output/profile-3d-contrib/profile-night-rainbow.svg"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kushhooda/kushhooda/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ⭐ Building things and learning every day.
