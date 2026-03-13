@@ -56,4 +56,10 @@ I enjoy learning by creating real projects, experimenting with new ideas, and im
 
 ---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kushhooda.kushhooda&left_color=deepskyblue&right_color=darkgrey&left_text=views"  />
+</div>
+
+---
+
 ⭐ Building things and learning every day.
