@@ -12,7 +12,7 @@ Indie Dev making MacOS apps.
 
 ## About Me
 
-Idie developer exploring artificial intelligence, software development, and building useful internet projects.
+Indie developer exploring artificial intelligence, software development, and building useful internet projects.
 
 I enjoy learning by creating real projects, experimenting with new ideas, and improving my technical skills through hands-on work.
 
