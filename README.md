@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-Student developer based in Kuwait 🇰🇼
+Indie Dev making MacOS apps.
 </p>
 
 ---
 
 ## About Me
 
-Student developer exploring artificial intelligence, software development, and building useful internet projects.
+Idie developer exploring artificial intelligence, software development, and building useful internet projects.
 
 I enjoy learning by creating real projects, experimenting with new ideas, and improving my technical skills through hands-on work.
 
