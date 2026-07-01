@@ -26,39 +26,4 @@ I enjoy learning by creating real projects, experimenting with new ideas, and im
 
 ---
 
-## Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/kushhooda/">
-<img src="https://img.shields.io/badge/LinkedIn-Kush%20Hooda-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/kush_hooda">
-<img src="https://img.shields.io/badge/X-%40kush__hooda-black?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://www.instagram.com/whykushh/">
-<img src="https://img.shields.io/badge/Instagram-whykushh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@whykushh">
-<img src="https://img.shields.io/badge/TikTok-whykushh-black?style=for-the-badge&logo=tiktok"/>
-</a>
-
-<img src="https://img.shields.io/badge/Discord-whykushh-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
-<a href="mailto:kush9hooda@gmail.com">
-<img src="https://img.shields.io/badge/Email-kush9hooda%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kushhooda.kushhooda&left_color=deepskyblue&right_color=darkgrey&left_text=views"  />
-</div>
-
----
-
 ⭐ Building things and learning every day.
